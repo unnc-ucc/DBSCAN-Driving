@@ -17,7 +17,9 @@ Our  goal  is  to  demystify  complicated  interactions  between  driving  behav
 
 ## Experiment Results
 <div align=center>
-<a href="url"><img src="/images/road_conditation.png" height="80%" width="80%" alt="图片描述文字"></a>
+<a href="url"><img src="/images/road_conditation.png" height="60%" width="60%" alt="图片描述文字"></a>
 </div>
+
+<br>
 
 ![avatar](/images/Quantification_results.png)
