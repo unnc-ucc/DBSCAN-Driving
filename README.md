@@ -23,3 +23,6 @@ Our  goal  is  to  demystify  complicated  interactions  between  driving  behav
 <br>
 
 ![avatar](/images/Quantification_results.png)
+
+## Contributor
+[Yu Zhang](https://github.com/YU-Anthony), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
